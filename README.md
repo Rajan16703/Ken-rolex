@@ -72,7 +72,8 @@
 ## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rajanjha9235&theme=react-dark&hide_border=true" />
+ <img src="https://activity-graph.herokuapp.com/graph?username=RajanJhaJi&theme=github" />
+
 </p>
 ---
 
