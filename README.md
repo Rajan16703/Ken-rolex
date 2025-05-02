@@ -1,6 +1,17 @@
 <h1 align="center">Hey there, I'm Rajan Jha 👋</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack Enthusiast | DevOps Learner</h3>
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=rajanjha9235" alt="visitor badge"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajanjha9235/rajanjha9235/main/assets/code-working.gif" alt="developer at work" width="60%" />
 </p>
@@ -56,6 +67,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rajanjha9235&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
+
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rajanjha9235&theme=react-dark&hide_border=true" />
+</p>
 ---
 
 ## 💬 Let’s Connect!
