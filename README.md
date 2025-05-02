@@ -6,6 +6,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=rajanjha9235" alt="visitor badge"/>
+</p>
+
+
 ---
 
 <p align="center">
@@ -24,6 +29,12 @@
 - 🌱 I’m exploring **Machine Learning**, **AWS**, and **Microservices**.
 - 🧠 I enjoy solving problems, building products, and writing clean, scalable code.
 - 🌐 Portfolio: [rajan-jha-v2.vercel.app](https://rajan-jha-v2.vercel.app)
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="180" />
+</p>
+
 
 ---
 
