@@ -9,7 +9,18 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/rajanjha9235?style=social)](https://github.com/rajanjha9235)
   [![Twitter Follow](https://img.shields.io/twitter/follow/rajanjha9235?style=social)](https://twitter.com/rajanjha9235)
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=rajanjha9235)
+  
+</div>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=rajanjha9235&color=blueviolet&style=flat-square&label=Profile+Views)
+  
+</div>
+
+<div align="center">
+  
+  [![Profile Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajanjha9235&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
