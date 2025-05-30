@@ -5,9 +5,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=rajanjha9235" alt="visitor badge"/>
-</p>
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/rajanjha9235?style=social)](https://github.com/rajanjha9235)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/rajanjha9235?style=social)](https://twitter.com/rajanjha9235)
+  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=rajanjha9235)
+  
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -15,6 +19,18 @@
 - 🌱 I'm exploring **Machine Learning**, **AWS**, and **Microservices**
 - 🧠 I enjoy solving problems, building products, and writing clean, scalable code
 - 🌐 Portfolio: [rajan-jha-v2.vercel.app](https://rajan-jha-v2.vercel.app)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/rajanjha9235)
+- 💡 Open to collaborating on **Open Source Projects**
+- 🎯 2024 Goals: Contribute more to Open Source and learn Cloud Native technologies
+
+## 🎯 Current Focus
+
+```text
+🖥 Frontend Development    █████████░░   90%
+⚙️ Backend Development     ████████░░░   80%
+☁️ Cloud & DevOps         ███████░░░░   70%
+🤖 Machine Learning       ████░░░░░░░   40%
+```
 
 ## 🚀 Tech Stack & Tools
 
@@ -52,6 +68,16 @@
 | **Mega Blog** | A full-featured blog platform with rich text editing, image uploads, and authentication | Next.js, MongoDB, AWS S3 | [View](https://rajan-jha-v2.vercel.app) |
 | **DevOps Pipeline** | End-to-end CI/CD pipeline with automated testing and deployment | Docker, GitHub Actions, AWS | [In Progress] |
 | **AI Task Manager** | Smart todo app with AI-powered task categorization | MERN Stack, OpenAI | [Coming Soon] |
+| **Portfolio v2** | Modern portfolio with 3D animations | Next.js, Three.js, Framer Motion | [View](https://rajan-jha-v2.vercel.app) |
+
+## 📊 Weekly Development Breakdown
+
+```text
+TypeScript   16 hrs 42 mins  ███████████░░░░░   68.34%
+JavaScript   4 hrs 32 mins   ██░░░░░░░░░░░░░░   18.52%
+Python       2 hrs 15 mins   █░░░░░░░░░░░░░░░    9.21%
+Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░░    3.93%
+```
 
 ## 📈 GitHub Stats
 
@@ -66,12 +92,35 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rajanjha9235&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Building a Scalable MERN Stack Application](https://dev.to/rajanjha9235)
+- [DevOps Best Practices for Node.js Applications](https://dev.to/rajanjha9235)
+- [Getting Started with AWS Lambda and API Gateway](https://dev.to/rajanjha9235)
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Open Source Contributions
+
+- [Project 1](https://github.com/project1) - Added feature X
+- [Project 2](https://github.com/project2) - Fixed bug Y
+- [Project 3](https://github.com/project3) - Improved documentation
+
 ## 💬 Let's Connect!
 
-- 🌐 [Portfolio](https://rajan-jha-v2.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rajanjha9235/)
-- 📫 [Email](mailto:rajanjha9235@gmail.com)
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rajan-jha-v2.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajanjha9235/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajanjha9235)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rajanjha9235)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajanjha9235@gmail.com)
+  
+</div>
 
 ---
 
 <p align="center">⭐️ Thank you for visiting my profile! Let's build something amazing together!</p>
+
+<p align="center">
+  <img src="https://github.com/rajanjha9235/rajanjha9235/blob/output/snake.svg" alt="Snake animation" />
+</p>
