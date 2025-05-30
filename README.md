@@ -1,3 +1,13 @@
+<!-- Greetings -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+</p>
+
+<!-- Rainbow Divider -->
+<a href="https://github.com/rajanjha9235">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
+
 <h1 align="center">Hey there, I'm Rajan Jha 👋</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack Enthusiast | DevOps Learner</h3>
 
@@ -9,11 +19,6 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/rajanjha9235?style=social)](https://github.com/rajanjha9235)
   [![Twitter Follow](https://img.shields.io/twitter/follow/rajanjha9235?style=social)](https://twitter.com/rajanjha9235)
-  
-</div>
-
-<div align="center">
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=rajanjha9235&color=blueviolet&style=flat-square&label=Profile+Views)
   
 </div>
@@ -43,7 +48,7 @@
 🤖 Machine Learning       ████░░░░░░░   40%
 ```
 
-## 🚀 Tech Stack & Tools
+## ⚙️ Tools & Technologies
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -110,12 +115,6 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░░   
 - [Getting Started with AWS Lambda and API Gateway](https://dev.to/rajanjha9235)
 <!-- BLOG-POST-LIST:END -->
 
-## 🤝 Open Source Contributions
-
-- [Project 1](https://github.com/project1) - Added feature X
-- [Project 2](https://github.com/project2) - Fixed bug Y
-- [Project 3](https://github.com/project3) - Improved documentation
-
 ## 💬 Let's Connect!
 
 <div align="center">
@@ -128,9 +127,12 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░░   
   
 </div>
 
----
+<!-- Thanks For Visiting Section -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="center">⭐️ Thank you for visiting my profile! Let's build something amazing together!</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting%20%F0%9F%92%99%20!;Take%20A%20Look%20at%20my%20Repositories%20%F0%9F%91%86%F0%9F%8F%BB%E2%9C%A8;Follow..%E2%AD%90;Your%20Dreams%20%F0%9F%98%89;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
+</p>
 
 <p align="center">
   <img src="https://github.com/rajanjha9235/rajanjha9235/blob/output/snake.svg" alt="Snake animation" />
