@@ -81,7 +81,7 @@
 
 | Project | Description | Stack | Live Demo |
 |---------|-------------|-------|-----------|
-| **Mega Blog** | A full-featured blog platform with rich text editing, image uploads, and authentication | Next.js, MongoDB, AWS S3 | [View](https://rajan-jha-v2.vercel.app) |
+| **CulinaryAI** | application helps you generate recipes from ingredients, get personalized health plans, and manage your daily meals and exercises. | [View](https://culinary-ai-nine.vercel.app/) |
 | **DevOps Pipeline** | End-to-end CI/CD pipeline with automated testing and deployment | Docker, GitHub Actions, AWS | [In Progress] |
 | **AI Task Manager** | Smart todo app with AI-powered task categorization | MERN Stack, OpenAI | [Coming Soon] |
 | **Portfolio v2** | Modern portfolio with 3D animations | Next.js, Three.js, Framer Motion | [View](https://rajan-jha-v2.vercel.app) |
@@ -135,5 +135,6 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
 </p>
 
 <p align="center">
-  <img src="https://github.com/rajanjha9235/rajanjha9235/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/ken-rolex/rajanjha9235/blob/output/snake.svg" alt="Snake animation" />
+
 </p>
