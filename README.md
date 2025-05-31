@@ -4,12 +4,12 @@
 </p>  
 
 <!-- Rainbow Divider -->
-<a href="https://github.com/rajanjha9235">
+<a href="https://github.com/ken-rolex">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
 <h1 align="center">Hey there, I'm Rajan Jha 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack Enthusiast | DevOps Learner</h3>
+<h3 align="center">🚀 Full-Stack Developer | WEB3 Enthusiast | DevOps Learner</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -17,9 +17,9 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/rajanjha9235?style=social)](https://github.com/rajanjha9235)
+  [![GitHub followers](https://img.shields.io/github/followers/rajanjha9235?style=social)](https://github.com/ken-rolex)
   [![Twitter Follow](https://img.shields.io/twitter/follow/rajanjha9235?style=social)](https://twitter.com/rajanjha9235)
-  ![Profile Views](https://komarev.com/ghpvc/?username=rajanjha9235&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ken-rolex&color=blueviolet&style=flat-square&label=Profile+Views)
   
 </div>
 
@@ -92,7 +92,7 @@
 TypeScript   16 hrs 42 mins  ███████████░░░░░   68.34%
 JavaScript   4 hrs 32 mins   ██░░░░░░░░░░░░░░   18.52%
 Python       2 hrs 15 mins   █░░░░░░░░░░░░░░░    9.21%
-Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░░    3.93%
+Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.93%
 ```
 
 ## 📈 GitHub Stats
@@ -120,7 +120,7 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░░   
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rajan-jha-v2.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajanjha9235/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajanjha9235)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rajanjha9235)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajanjha9235@gmail.com)
