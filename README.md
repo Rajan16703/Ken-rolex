@@ -25,7 +25,7 @@
 
 <div align="center">
   
-  [![Profile Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajanjha9235&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Profile Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ken-rolex&bg_color=2e302c&color=203eb6&line=35417e&point=b9a7a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
