@@ -39,6 +39,67 @@
 - 💡 Open to collaborating on **Open Source Projects**
 - 🎯 2024 Goals: Contribute more to Open Source and learn Cloud Native technologies
 
+
+
+
+
+
+## 🔭 Interests & Goals
+
+Hey there! I'm a passionate 2nd-year B.Tech (CSE) student, constantly exploring and building modern tech projects. Here's what I'm currently focused on:
+
+---
+
+### 🧠 Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0dhZglEACfsD/2PRXMoAAAAASUVORK5CYII=)  
+Learning to build smart GenAI apps using:
+- LangChain
+- OpenAI API
+- Prompt Engineering
+
+---
+
+### 🌐 Web3 & Smart Contracts
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+Building decentralized apps (DApps) using Solidity and exploring Ethereum ecosystem.
+
+---
+
+### 💻 Full Stack Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  
+Creating responsive UIs and powerful backends using React/Next and Node.js.
+
+---
+
+### ☁️ Cloud Computing & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+Deploying and scaling apps using AWS, Vercel, Docker & Kubernetes.
+
+---
+
+### 🚀 Product Building Mindset
+I love turning ideas into working apps, from frontend to backend, with cloud deployment — all by myself or with a team.
+
+---
+
+I use AI tools smartly to speed up development, but I always dive deep into learning the **"why" behind the code**.
+
+> Let’s collaborate and build something impactful! 💡✨
+
+
+
+
+
+
 ## 🎯 Current Focus
 
 ```text
@@ -82,8 +143,8 @@
 | Project | Description | Stack | Live Demo |
 |---------|-------------|-------|-----------|
 | **CulinaryAI** | application helps you generate recipes from ingredients, get personalized health plans, and manage your daily meals and exercises. | [View](https://culinary-ai-nine.vercel.app/) |
-| **DevOps Pipeline** | End-to-end CI/CD pipeline with automated testing and deployment | Docker, GitHub Actions, AWS | [In Progress] |
-| **AI Task Manager** | Smart todo app with AI-powered task categorization | MERN Stack, OpenAI | [Coming Soon] |
+| **ANYNOMUS-TALK** | Connect Freely, Share Boldly, Stay Anonymous | Express.js markdown socket.io javascript bootstrap css html react  react hook form| [In Progress] | looking for collabration
+| **Exa MCP Server** | A Model Context Protocol (MCP) server lets AI assistants like Claude use the Exa AI Search API for web searches. This setup allows AI models to get real-time web information in a safe and controlled way. | javascript typescript docker.file| [Visit my repo] |
 | **Portfolio v2** | Modern portfolio with 3D animations | Next.js, Three.js, Framer Motion | [View](https://rajan-jha-v2.vercel.app) |
 
 ## 📊 Weekly Development Breakdown
@@ -121,9 +182,9 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rajan-jha-v2.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajanjha9235)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rajanjha9235)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajanjha9235@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajanjh40593219)
+[![Medium](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://medium.com/@rajan.jha114430)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajan.jha114430@gmail.com)
   
 </div>
 
