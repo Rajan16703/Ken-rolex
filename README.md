@@ -1,13 +1,19 @@
 <!-- Namaste 🙏  -->
-<!-- Welcome to my GitHub! 👋  -->
+<!-- <!-- Namaste 🙏  -->  -->
 <!-- Glad to see you here  -->
 
 <!-- I’m Rajan — a passionate coder 💻 -->
 
 <!-- Let's build something amazing 💻 -->
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-</p>  
+<image src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=1EA61A&width=435&lines=+Namaste+%F0%9F%99%8F+;welcome++to++my++++github;Glad+++to++++see++++you++++here;I%E2%80%99m+Rajan+%E2%80%94+a+passionate+coder+%F0%9F%92%BB;Let's+build+something+amazing+%F0%9F%92%BB)](https://git.io/typing-svg) >
+  </p>
+
+
+
+
 
 <!-- Rainbow Divider -->
 <a href="https://github.com/ken-rolex">
