@@ -19,8 +19,8 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/rajanjha9235?style=social)](https://github.com/ken-rolex)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/rajanjha9235?style=social)](https://x.com/rajanjh40593219)
+  [![GitHub followers](https://img.shields.io/github/followers/ken-rolex?style=social)](https://github.com/ken-rolex)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/rajanjh40593219?style=social)](https://x.com/rajanjh40593219)
   ![Profile Views](https://komarev.com/ghpvc/?username=ken-rolex&color=blueviolet&style=flat-square&label=Profile+Views)
   
 </div>
