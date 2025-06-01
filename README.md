@@ -37,7 +37,7 @@
 - 🌱 I'm exploring **Machine Learning**, **AWS**, and **Microservices**
 - 🧠 I enjoy solving problems, building products, and writing clean, scalable code
 - 🌐 Portfolio: [rajan-jha-v2.vercel.app](https://rajan-jha-v2.vercel.app)
-- 📝 I regularly write articles on [Dev.to](https://medium.com/@rajan.jha114430)
+- 📝 I regularly write articles on [medium](https://medium.com/@rajan.jha114430)
 - 💡 Open to collaborating on **Open Source Projects**
 - 🎯 2025 Goals: Contribute more to Open Source and learn Cloud Native technologies
 
