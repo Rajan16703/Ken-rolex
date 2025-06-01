@@ -27,7 +27,7 @@
 
 <div align="center">
   
-  [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ken-rolex&bg_color=0d0d0c&color=203eb6&line=606ca4&point=b9a7a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![github activity graph](https://github.com/ken-rolex/graph?username=ken-rolex&bg_color=0d0d0c&color=203eb6&line=606ca4&point=b9a7a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
