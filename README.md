@@ -11,7 +11,7 @@
 </a>
 
 <h1 align="center">Hey there, I'm Rajan Jha 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | WEB3 Enthusiast | DevOps Learner</h3>
+<h3 align="center">🚀 Full-Stack Developer | AI-ML Enthusiast | DevOps Learner</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
