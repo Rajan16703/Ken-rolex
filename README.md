@@ -334,6 +334,12 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
 
 ## 💬 Let's Connect!
 
+
+<p align="right">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
+</p>
+
+
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rajan-jha-v2.vercel.app)
