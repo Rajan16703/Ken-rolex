@@ -218,7 +218,7 @@ I use AI tools smartly to speed up development, but I always dive deep into lear
 
 ### 🔵 Codeforces Stats
 
-![Codeforces](https://raw.githubusercontent.com/Xtrinch/Xtrinch/main/codeforces-stats.svg?user=Mac_million)
+[![Codeforces](https://raw.githubusercontent.com/Xtrinch/Xtrinch/main/codeforces-stats.svg?user=Mac_million)](https://codeforces.com/profile/Mac_million)
 
 
 
