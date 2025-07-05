@@ -14,6 +14,7 @@
 
 
 
+
 <!-- Rainbow Divider -->
 <a href="https://github.com/ken-rolex">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
@@ -277,6 +278,14 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
 
 </p>
 
+------
+
+###
+
+
+![Rajan Jha GitHub Stats](https://camo.githubusercontent.com/b69896fe216ee7a5937a3c1f24e557e195e457f64a1af6e9748d37370785a62e/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d52616a616e4a6861267468656d653d7261646963616c)
+
+
 
 
 ## 🧮 DSA Profile Summary
@@ -301,6 +310,27 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
   <img src="https://github-profile-trophy.vercel.app/?username=ken-rolex&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 ----
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ken-rolex&theme=apprentice)
+
+
+
+
+
+### Markdown Usage
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ken-rolex&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ken-rolex&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ken-rolex&theme=apprentice&utcOffset=8)
+
+
+
+
+
+
+
+
 
 ---
 ## 📝 Latest Blog Posts
@@ -357,7 +387,4 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/ken-rolex/ken-rolex/blob/output/snake.svg" alt="Snake animation" />
 
-</p>
