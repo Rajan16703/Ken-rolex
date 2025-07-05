@@ -3,11 +3,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=1EA61A&background=75757500&center=true&vCenter=true&width=435&lines=+Namaste+%F0%9F%99%8F+;welcome++to++my++++github;Glad+++to++++see++++you++++here;I%E2%80%99m+Rajan+%E2%80%94+a+passionate+coder+%F0%9F%92%BB;Let's+build+something+amazing+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 
-<div align="center">
-  
-  [![github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=ken-rolex&bg_color=0d0d0c&color=203eb6&line=606ca4&point=b9a7a7&area=true&hide_border=true)](https://github.com/ken-rolex)
-  
-</div>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4emE3bHQ2MDRyMHp6ZG1wNnI2ZWxvc3p3ZWhnMHkzdjdtNzVyaCZlcD12MV8zNjY3ZjEwNGw2Z2hiOXE1YjgzZHVqY3J5Ym44d2pwaGdqa3I4MGpzYjVna3dqNGRqayZjdD1n/UVG0BN8TOMKkPOJS6e/giphy.gif" width="300" />
+</p>
+
+
+
 
 
 
