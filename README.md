@@ -101,7 +101,7 @@
 - 🔭 Currently building MERN stack projects with AI/ML integrations.
 - 🌱 Exploring LangChain, HuggingFace, AWS, and CrewAI.
 - 💡 I use open-source tools to develop smart GenAI systems.
-- 🌐 Portfolio: [rajan-jha-v2.vercel.app](https://rajan-jha-v2.vercel.app/)
+- 🌐 Portfolio: [rajan-jha-v2.vercel.app](https://rajanjha-v4.vercel.app/)
 - ✍️ I write on [Medium](https://medium.com/@rajan.jha114430)
 - 🤝 Open to collabs on GenAI + Full-Stack projects
 -----
