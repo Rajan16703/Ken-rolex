@@ -30,7 +30,12 @@
 
 
 
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+      </td>
       <td align="right">
         <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
       </td>
@@ -44,15 +49,8 @@
 
 
 
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="270" />
-    </td>
-    <td align="right" width="50%">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="270" />
-    </td>
-  </tr>
-</table>
+  
+
 
 
 <p align="center">
