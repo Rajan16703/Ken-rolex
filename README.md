@@ -203,10 +203,27 @@ I use AI tools smartly to speed up development, but I always dive deep into lear
 
 ## 🧮 DSA Profile Summary
 
+
+------
+
 ### 🟨 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Feynman_16?theme=dark&font=baloo&ext=contest)](https://leetcode.com/Feynman_16/)
 
+
+
+-------
+
+
+
+### 🔵 Codeforces Stats
+
+![Codeforces](https://raw.githubusercontent.com/Xtrinch/Xtrinch/main/codeforces-stats.svg?user=Mac_million)
+
+
+
+
+-------
 
 
 ## 🛠 Featured Projects
