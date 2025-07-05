@@ -335,6 +335,12 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
 ## 💬 Let's Connect!
 
 
+
+<p align="left">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="270" />
+</p>
+
+
 <p align="right">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
 </p>
