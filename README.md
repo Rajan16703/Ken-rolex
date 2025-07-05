@@ -63,15 +63,7 @@
 
 
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="270" />
-    </td>
-    <td align="right" width="50%">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="270" />
-    </td>
-  </tr>
+
   <tr>
     <td align="left" width="50%">
       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="270" />
