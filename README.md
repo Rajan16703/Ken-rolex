@@ -200,30 +200,11 @@ I use AI tools smartly to speed up development, but I always dive deep into lear
 
 
 
-
-## 🧮 DSA Profile Summary
-
-
-------
-
-### 🟨 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Feynman_16?theme=dark&font=baloo&ext=contest)](https://leetcode.com/Feynman_16/)
-
-
-
 -------
 
 
 
-### 🔵 Codeforces Stats
 
-[![Codeforces](https://raw.githubusercontent.com/Xtrinch/Xtrinch/main/codeforces-stats.svg?user=Mac_million)](https://codeforces.com/profile/Mac_million)
-
-
-
-
--------
 
 
 ## 🛠 Featured Projects
@@ -249,14 +230,35 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ken-rolex&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ken-rolex&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+
 </p>
+-----
+
+
+## 🧮 DSA Profile Summary
+
+
+------
+
+### 🟨 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Feynman_16?theme=dark&font=baloo&ext=contest)](https://leetcode.com/Feynman_16/)
+
+
+
+-------
+
+
+
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ken-rolex&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
 </p>
+----
 
+---
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Scalable MERN Stack Application](https://dev.to/rajanjha9235)
