@@ -335,13 +335,20 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
 ## 💬 Let's Connect!
 
 
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" />
-  <div style="width: 280px;"></div> <!-- Equal gap as one GIF width -->
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" />
-</div>
-
+<table width="100%">
+  <tr>
+    <td align="left" width="33.33%">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" />
+    </td>
+    <td width="20%">
+      <!-- Center Gap -->
+      <div style="height: 100px;"></div>
+    </td>
+    <td align="right" width="33.33%">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" />
+    </td>
+  </tr>
+</table>
 
 
 
