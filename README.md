@@ -134,7 +134,7 @@ Creating responsive UIs and powerful backends using React/Next and Node.js.
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-3C3C3C?style=flat)
 
-
+-----
 
 
 
@@ -174,27 +174,39 @@ I use AI tools smartly to speed up development, but I always dive deep into lear
 <h2 align="center">🌐 Coding & Research Profiles</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+  <a href="https://leetcode.com/Feynman_16/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://codeforces.com/profile/your-codeforces-username" target="_blank">
+  <a href="https://codeforces.com/profile/Mac_million" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.hackerearth.com/@your-hackerearth-username/" target="_blank">
+  <a href="https://www.hackerearth.com/@Rajan-jha-16//" target="_blank">
     <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
   </a>
-  <a href="https://huggingface.co/your-huggingface-username" target="_blank">
+  <a href="https://huggingface.co/Rajan16" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
   </a>
-  <a href="https://stackoverflow.com/users/your-userid/your-username" target="_blank">
+  <a href="https://stackoverflow.com/users/24840697/rajan-jha" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
   </a>
-  <a href="https://www.kaggle.com/your-kaggle-username" target="_blank">
+  <a href="https://www.kaggle.com/rajan1673" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
 -----
+
+
+
+
+
+
+## 🧮 DSA Profile Summary
+
+### 🟨 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Feynman_16?theme=dark&font=baloo&ext=contest)](https://leetcode.com/Feynman_16/)
+
 
 
 ## 🛠 Featured Projects
