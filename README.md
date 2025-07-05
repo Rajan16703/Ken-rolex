@@ -336,14 +336,22 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
 
 
 
-<p align="left">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" width="45%">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" />
+    </td>
+    <td width="10%">
+      <!-- This is the center gap -->
+    </td>
+    <td align="right" width="45%">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" />
+    </td>
+  </tr>
+</table>
 
 
-<p align="right">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
-</p>
+
 
 
 <div align="center">
@@ -361,7 +369,15 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting%20%F0%9F%92%99%20!;Take%20A%20Look%20at%20my%20Repositories%20%F0%9F%91%86%F0%9F%8F%BB%E2%9C%A8;Follow..%E2%AD%90;Your%20Dreams%20%F0%9F%98%89;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
+
+
 </p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
+</p>
+
 
 <p align="center">
   <img src="https://github.com/ken-rolex/ken-rolex/blob/output/snake.svg" alt="Snake animation" />
