@@ -3,6 +3,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=1EA61A&background=75757500&center=true&vCenter=true&width=435&lines=+Namaste+%F0%9F%99%8F+;welcome++to++my++++github;Glad+++to++++see++++you++++here;I%E2%80%99m+Rajan+%E2%80%94+a+passionate+coder+%F0%9F%92%BB;Let's+build+something+amazing+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 
+<div align="center">
+  
+  [![github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=ken-rolex&bg_color=0d0d0c&color=203eb6&line=606ca4&point=b9a7a7&area=true&hide_border=true)](https://github.com/ken-rolex)
+  
+</div>
+
 
 
 <!-- Rainbow Divider -->
