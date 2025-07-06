@@ -12,9 +12,6 @@
 
 
 
-
-
-
 <!-- Rainbow Divider -->
 <a href="https://github.com/ken-rolex">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
@@ -215,28 +212,27 @@ I use AI tools smartly to speed up development, but I always dive deep into lear
 ####
 🌐 Coding & Research Profile
 ---
-
-<h2 align="center">🌐 Coding & Research Profiles</h2>
 <p align="center">
   <a href="https://leetcode.com/Feynman_16/" target="_blank">
-    <img src="https://img.shields.io/badge/-000?style=social&logo=leetcode" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/-000?style=social&logo=leetcode" alt="LeetCode" height="80" width="80" />
   </a>
   <a href="https://codeforces.com/profile/Mac_million" target="_blank">
-    <img src="https://img.shields.io/badge/-000?style=social&logo=codeforces" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/-000?style=social&logo=codeforces" alt="Codeforces" height="80" width="80" />
   </a>
   <a href="https://www.hackerearth.com/@Rajan-jha-16/" target="_blank">
-    <img src="https://img.shields.io/badge/-000?style=social&logo=hackerearth" alt="HackerEarth" />
+    <img src="https://img.shields.io/badge/-000?style=social&logo=hackerearth" alt="HackerEarth" height="80" width="80" />
   </a>
   <a href="https://huggingface.co/Rajan16" target="_blank">
-    <img src="https://img.shields.io/badge/-000?style=social&logo=huggingface" alt="HuggingFace" />
+    <img src="https://img.shields.io/badge/-000?style=social&logo=huggingface" alt="HuggingFace" height="80" width="80" />
   </a>
   <a href="https://stackoverflow.com/users/24840697/rajan-jha" target="_blank">
-    <img src="https://img.shields.io/badge/-000?style=social&logo=stackoverflow" alt="StackOverflow" />
+    <img src="https://img.shields.io/badge/-000?style=social&logo=stackoverflow" alt="StackOverflow" height="80" width="80" />
   </a>
   <a href="https://www.kaggle.com/rajan1673" target="_blank">
-    <img src="https://img.shields.io/badge/-000?style=social&logo=kaggle" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/-000?style=social&logo=kaggle" alt="Kaggle" height="80" width="80" />
   </a>
 </p>
+
 
 -----
 
