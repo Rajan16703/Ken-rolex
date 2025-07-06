@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
-<h1 align="center">Hey there, I'm Rajan Jha 👋</h1>
+<h1 align="center">Hey Bro , I'm Rajan Jha 👋</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI-ML Enthusiast | DevOps Learner</h3>
 
 
