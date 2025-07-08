@@ -63,6 +63,8 @@
   [![GitHub followers](https://img.shields.io/github/followers/ken-rolex?style=social)](https://github.com/ken-rolex)
   [![Twitter Follow](https://img.shields.io/twitter/follow/rajanjh40593219?style=social)](https://x.com/rajanjh40593219)
   ![Profile Views](https://komarev.com/ghpvc/?username=ken-rolex&color=blueviolet&style=flat-square&label=Profile+Views)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-Ken%20Rolex-pink?style=for-the-badge)](https://github.com/sponsors/ken-rolex)
   
 </div>
 
