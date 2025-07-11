@@ -73,6 +73,45 @@
   
 </div>  
 
+
+
+
+
+
+
+
+<h1 align="center">🔥 Daddy JSON - YouTube Channel 🔥</h1>
+
+<p align="center">
+  <a href="https://www.youtube.com/@DaddyJSON" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-DADDY%20JSON-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Daddy JSON YouTube Channel">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@DaddyJSON" target="_blank">
+    <img src="https://img.youtube.com/vi/TG2AWzsnKm4/hqdefault.jpg" alt="Latest Video Thumbnail" width="60%" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   
   [![github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=ken-rolex&bg_color=0d0d0c&color=203eb6&line=606ca4&point=b9a7a7&area=true&hide_border=true)](https://github.com/ken-rolex)
