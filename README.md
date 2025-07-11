@@ -335,6 +335,33 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
 
 
 ---
+<h1 align="center">🔥 Daddy JSON - YouTube Channel 🔥</h1>
+
+<p align="center">
+  <a href="https://www.youtube.com/@DaddyJSON" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-DADDY%20JSON-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Daddy JSON YouTube Channel">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@DaddyJSON" target="_blank">
+    <img src="https://img.youtube.com/vi/TG2AWzsnKm4/hqdefault.jpg" alt="Latest Video Thumbnail" width="60%" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Scalable MERN Stack Application](https://dev.to/rajanjha9235)
