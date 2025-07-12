@@ -80,7 +80,7 @@
 
 
 
-<h1 align="center">🔥 Daddy JSON - YouTube Channel 🔥</h1>
+<h1 align="center">🔥 Daddy {JSON} 🔥</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@DaddyJSON" target="_blank">
