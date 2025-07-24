@@ -74,11 +74,46 @@
 </div>  
 
 
+---
+
+
+<p align="center">
+  <img src="YOUR_LOGO_URL_HERE" alt="Event Info Logo" width="120" />
+</p>
+
+<h1 align="center">🤝 Join <a href="https://event-info-community.vercel.app" target="_blank">Event Info</a></h1>
+
+<p align="center">
+  <strong>🇮🇳 Pan-India Developer Community</strong><br/>
+  🚀 Helping developers find <strong>Tech Events</strong>, 💡 Hackathons & 🗞️ Community News — all in one place!
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/Ws6Dm1ZW_vMAAAAi/cool-thumbs-up.gif" width="160" alt="Thumbs Up" />
+</p>
+
+<p align="center">
+  <a href="https://event-info-community.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit Event Info-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <br/><br/>
+  <a href="https://wa.me/YOUR_NUMBER_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/🔥 Join Our WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+
+<p align="center">
+   🚀 🎯
+</p>
 
 
 
 
 
+
+
+<!---youtube channel--->
 
 <h1 align="center">🔥 Daddy {JSON} 🔥</h1>
 
@@ -93,6 +128,10 @@
     <img src="https://img.youtube.com/vi/TG2AWzsnKm4/hqdefault.jpg" alt="Latest Video Thumbnail" width="60%" />
   </a>
 </p>
+
+
+
+
 
 
 
